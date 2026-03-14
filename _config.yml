@@ -5,7 +5,7 @@
 # Site
 title: 遐想空间
 subtitle: ''
-description: 记录想记录的，留下想留下的  
+description: 记录想记录的，留下想留下的
 keywords:
 author: Lesson
 language: zh-CN
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
